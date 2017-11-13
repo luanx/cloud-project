@@ -9,6 +9,8 @@
 	<modules>
 		<module>registry</module>
 		<module>config</module>
+		<module>svca-service</module>
+		<module>svcb-service</module>
 	</modules>
 	<packaging>pom</packaging>
 

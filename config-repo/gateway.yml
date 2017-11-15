@@ -3,7 +3,7 @@ server:
 zuul:
   routes:
     auth-service:
-          path: /uaa/**
+      path: /uaa/**
     svca-service:
       path: /svca/**
     svcb-service:

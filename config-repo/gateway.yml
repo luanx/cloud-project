@@ -2,6 +2,8 @@ server:
   port: 8060
 zuul:
   routes:
+    auth-service:
+          path: /uaa/**
     svca-service:
       path: /svca/**
     svcb-service:

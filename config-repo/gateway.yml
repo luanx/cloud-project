@@ -1,0 +1,8 @@
+server:
+  port: 8060
+zuul:
+  routes:
+    svca-service:
+      path: /svca/**
+    svcb-service:
+      path: /svcb/**

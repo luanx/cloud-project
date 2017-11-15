@@ -11,6 +11,7 @@
 		<module>config</module>
 		<module>svca-service</module>
 		<module>svcb-service</module>
+		<module>gateway</module>
 	</modules>
 	<packaging>pom</packaging>
 

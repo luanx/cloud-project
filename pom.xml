@@ -13,7 +13,6 @@
 		<module>svcb-service</module>
 		<module>gateway</module>
 		<module>monitor</module>
-		<module>auth-service</module>
 	</modules>
 	<packaging>pom</packaging>
 
